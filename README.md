@@ -4,9 +4,9 @@
 
 - 🌱 學習 **熱衷於探索電腦視覺和人工智慧領域**
 
-- 📫 How to reach me **ytzhou1210@gmail.com**
-
 - 🎓 學歷 **南台科技大學資訊工程學系碩士(在學)**
+
+- 📫 聯絡 **ytzhou1210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
