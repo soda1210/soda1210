@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, We're Yue-Ting, Zhou</h1>
+- 💻 領域 **網頁開發 | 物件辨識 | 人體姿態分析**
+
+- 🌱 學習 **熱衷於探索電腦視覺和人工智慧領域**
+
 - 📫 How to reach me **ytzhou1210@gmail.com**
+
+- 🎓 學歷 **南台科技大學資訊工程學系碩士(在學)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
