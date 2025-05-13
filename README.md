@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Yue-Ting, Zhou</h1>
+<h1 align="center">Hi 👋, I'm Yue-Ting, Zhou</h1>
 
 - 💻 領域 **網頁開發 | 物件辨識 | 人體姿態分析**
 
